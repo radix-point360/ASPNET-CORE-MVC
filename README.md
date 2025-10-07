@@ -1,2 +1,0 @@
-# ASPNET-CORE-MVC
-#Test
