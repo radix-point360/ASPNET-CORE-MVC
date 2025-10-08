@@ -1,0 +1,29 @@
+F:\ASPNET Core MVC\Math App\Math App\bin\Debug\net8.0\appsettings.Development.json
+F:\ASPNET Core MVC\Math App\Math App\bin\Debug\net8.0\appsettings.json
+F:\ASPNET Core MVC\Math App\Math App\bin\Debug\net8.0\Math App.staticwebassets.endpoints.json
+F:\ASPNET Core MVC\Math App\Math App\bin\Debug\net8.0\Math App.exe
+F:\ASPNET Core MVC\Math App\Math App\bin\Debug\net8.0\Math App.deps.json
+F:\ASPNET Core MVC\Math App\Math App\bin\Debug\net8.0\Math App.runtimeconfig.json
+F:\ASPNET Core MVC\Math App\Math App\bin\Debug\net8.0\Math App.dll
+F:\ASPNET Core MVC\Math App\Math App\bin\Debug\net8.0\Math App.pdb
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\Math App.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\Math App.AssemblyInfoInputs.cache
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\Math App.AssemblyInfo.cs
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\Math App.csproj.CoreCompileInputs.cache
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\Math App.MvcApplicationPartsAssemblyInfo.cache
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\Math App.sourcelink.json
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\scopedcss\bundle\Math App.styles.css
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\staticwebassets.build.json
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\staticwebassets.development.json
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\Math App.dll
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\refint\Math App.dll
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\Math App.pdb
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\Math App.genruntimeconfig.cache
+F:\ASPNET Core MVC\Math App\Math App\obj\Debug\net8.0\ref\Math App.dll
