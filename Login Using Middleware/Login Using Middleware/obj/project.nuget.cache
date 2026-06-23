@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Bq2e0QVG2L0=",
+  "dgSpecHash": "Ud5nGpU7HL4=",
   "success": true,
-  "projectFilePath": "F:\\ASPNET Core MVC\\Login Using Middleware\\Login Using Middleware\\Login Using Middleware.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/ASPNET-CORE-MVC/Login Using Middleware/Login Using Middleware/Login Using Middleware.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.25/microsoft.netcore.app.host.linux-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
