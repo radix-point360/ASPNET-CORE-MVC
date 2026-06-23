@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testingCodespaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+542ef2e35a23f4913abda67561045ef9eb6104e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bfe532965291dc0854af8aab59b22ea4b1e8549")]
 [assembly: System.Reflection.AssemblyProductAttribute("testingCodespaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testingCodespaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
